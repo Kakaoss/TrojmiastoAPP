@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Trójmiasto APP</string>
+    <string name="welcome_message">Witaj w aplikacji Trójmiasto APP ! Wybierz, które miasto chciałbyś zwiedzić!</string>
+    <string name="gdansk">Gdańsk</string>
+    <string name="gdynia">Gdynia</string>
+    <string name="sopot">Sopot</string>
 </resources>

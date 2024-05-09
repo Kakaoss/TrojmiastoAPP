@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorGdansk">#FFBF8A5C</color>
+    <color name="colorGdynia">#6F638A</color>
+    <color name="colorSopot">#C766CD</color>
 </resources>
